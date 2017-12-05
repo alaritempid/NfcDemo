@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NfcDemo</string>
+    <string name="waiting">Swipe away!</string>
+</resources>
